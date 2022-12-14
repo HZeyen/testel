@@ -9,7 +9,7 @@ Program reads a number of seg2 or segy input files and allows certain data treat
     It is strongly recommended to use a mouse. The program needs the central mouse button (or wheel). If you are working with a touchpad, configure it such that it simulates the central mouse button. The simplest is certainly to configure a three-finger-touch as central button. For this, under Windows press the WINDOWS-Key+I. On the screen that appears, click on “Périfériques”. There, on the left-side panel, search “Pavé tactile”. Scroll down until you see the image with three fingers. Below this image, under “Appuis”, change to “Button central de la souris”.
 
 2. Copy the following files all into the same folder of your choice:
-        a. refraPy.py (the main program)
+A.  refraPy.py (the main program)
         b. refraData.py
         c. refraPlot.py
         d. refraWindow.ui
