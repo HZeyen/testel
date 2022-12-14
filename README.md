@@ -1,5 +1,4 @@
-# testel
- # RefraPy manual
+# RefraPy manual
 
 Program reads a number of seg2 or segy input files and allows certain data treatment like different filters and picking with different methods. Different plotting options are given like gaining, shot/ receiver/ distance gathers.
 
