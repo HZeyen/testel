@@ -16,7 +16,7 @@ Program reads a number of seg2 or segy input files and allows certain data treat
 3. Download and install Anaconda Individual Edition
 4. Push the Windows key and search Anaconda3. There, choose (**RIGHT CLICK ON IT**) Anaconda Prompt and execute (if possible) as administrator. 
 This opens a command window. Then type the following commands:
-a. `conda update --all`
+        a. `conda update --all`
         b. `conda config --add channels gimli --add channels conda-forge`
 « channels » is the place where to find the source code, here « gimli » and “conda-forge”
         c. `conda create -n pg pygimli pybert`
